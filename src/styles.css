@@ -28,10 +28,10 @@ input {
   margin: 0 10vw;
 }
 .emo {
-  /* margin: 3rem; */
-  /* padding: 3rem; */
-  font-size: 2.5rem;
+  /* margin: 3rem;
+  padding: 1rem; */
   /* background-color: wheat */
+  font-size: 2.5rem;
 }
 .foot {
   background-color: wheat;
@@ -51,7 +51,4 @@ a {
 a:hover {
   text-decoration: underline;
   cursor: pointer;
-}
-h3 {
-  padding: 2rem;
 }
